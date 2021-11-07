@@ -1,0 +1,3 @@
+rootProject.name = "illergy_openCV"
+include ':app'
+include ':openCVLibrary3414'
